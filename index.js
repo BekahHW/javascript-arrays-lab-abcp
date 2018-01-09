@@ -4,4 +4,7 @@ function destructivelyAppendKitten(name){
   
 }
 
-function desc
+function destructivelyPrependKitten(name) {
+  
+}
+
